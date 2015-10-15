@@ -1,0 +1,16 @@
+dd {
+    margin-bottom: 12px;
+}
+
+table tr.total {
+    font-weight: bold;
+}
+
+table tr.total td:first-child {
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.scope {
+    text-align: center;
+}
